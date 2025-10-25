@@ -23,7 +23,6 @@ const Footer = () => {
   const socialMedia = [
     { icon: Facebook, alt: 'Facebook' },
     { icon: Instagram, alt: 'Instagram' },
-    { icon: Tiktok, alt: 'TikTok' },
     { icon: Snapchat, alt: 'Snapchat' }
   ]
 
