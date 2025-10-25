@@ -2,6 +2,7 @@ import React from 'react'
 import logo from '../assets/logo.png'
 import download from '../assets/download.png'
 import Facebook from '../assets/Facebook.png'
+import Tiktok from '../assets/tiktok.png'
 import Instagram from '../assets/Instagram.png'
 import Snapchat from '../assets/Snapchat.png'
 
